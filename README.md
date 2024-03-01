@@ -15,7 +15,7 @@ Download and install docker https://docs.docker.com/desktop/install/mac-install/
 
 ## Running
 
-Firt time:
+First time:
 
 ```bash
 ./BUILD
